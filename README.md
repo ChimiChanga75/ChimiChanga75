@@ -66,7 +66,7 @@ C# · Java · PHP · Laravel · Git · macOS · Linux
   <img src="https://skillicons.dev/icons?i=neovim,windows,idea" />
 </p>
 
-**Programmation agentique** - Création de skills et de hooks, configuration d'agents (`AGENTS.md`)
+**Programmation augmentée par des agents** - Développement logiciel avec des agents comme outils de collaboration, de revue et d'automatisation; création de skills et de hooks, configuration d'agents (`AGENTS.md`)
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />

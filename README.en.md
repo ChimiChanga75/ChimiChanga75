@@ -66,7 +66,7 @@ C# · Java · PHP · Laravel · Git · macOS · Linux
   <img src="https://skillicons.dev/icons?i=neovim,windows,idea" />
 </p>
 
-**Agentic programming** - Building skills and hooks, configuring agents (`AGENTS.md`)
+**Programming augmented by agents** - Software development with agents as collaboration, review and automation tools; building skills and hooks, configuring agents (`AGENTS.md`)
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
