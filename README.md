@@ -1,92 +1,80 @@
-# Salut👋
-### Je suis Nicolas Tremblay, un étudiant en Techniques de l'informatique.
-À la recherche d'un **stage pour la session d'hiver 2027**.
+<h1 align="center">
+  Nicolas Tremblay
+  <a href="https://rmble.ca"><img src="title_rmble_logo_light-mode.svg" alt="rmble" height="40" align="center"></a>
+</h1>
+<p align="center">
+  Étudiant en 3<sup>e</sup> année en Techniques de l'informatique au Cégep Saint-Jean-sur-Richelieu<br>
+  Développement web, mobile, jeux vidéo et outils agentiques.
+</p>
 
-- 🎓 Cégep de Saint-Jean-sur-Richelieu, Québec
-- 🎬 Montage vidéo dans mes temps libres
-- 🏒 Joueur de hockey
-- 🌐 Fluide en français et en anglais
- 
-Je m'intéresse surtout au côté visuel du développement :
-- 🧊 Modélisation 3D
-- 🎨 Conception d'interfaces UI/UX
-- 🎮 Jeux vidéo
+<p align="center">
+  <a href="mailto:nicktremblay1005@gmail.com"><img src="https://img.shields.io/badge/Courriel-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Courriel"></a>
+  <a href="https://rmble.ca"><img src="https://img.shields.io/badge/rmble.ca-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="rmble.ca"></a>
+</p>
 
-## Technologies
+```
+nicktremblay1005@gmail.com
+```
 
-**Mon IDE préféré** : 
+---
 
-[![Mon IDE préféré](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
- 
-**Langages**
- 
-[![Langages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java,kotlin,php,mysql)](https://skillicons.dev)
- 
-**Frameworks**
- 
-[![Frameworks](https://skillicons.dev/icons?i=react,tailwind,laravel,dotnet)](https://skillicons.dev)
- 
-**Outils**
- 
-[![Outils](https://skillicons.dev/icons?i=unity,godot,blender,ae,pr,ps,ai,figma,git)](https://skillicons.dev)
- 
-## Me joindre
- 
-[![Courriel](https://img.shields.io/badge/Courriel-vincent.hottin2007%40gmail.com-2079C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincent.hottin2007@gmail.com)
- 
-<details>
-<summary><b>English</b></summary>
-  
-# Hi 👋
-### I'm Nicolas Tremblay, a Computer Science Technology student.
-Looking for an **internship for the Winter 2027 semester**.
+## Projets en vedette
 
-- 🎓 Cégep de Saint-Jean-sur-Richelieu, Quebec
-- 🎬 Video editing in my spare time
-- 🏒 Hockey player
-- 🌐 Fluent in French and English
+| Projet | Description | Technos |
+|---|---|---|
+| **[rmble.ca](https://rmble.ca)** | Application de clavardage déployée sur notre propre domaine | TypeScript, React, Node.js, PHP, Rust |
+<!--| **Flesh to Flesh** | Jeu créé à l'Intercollégial de création de jeux vidéo 🏅 *Mention spéciale d'originalité* | Unity |
+| **[Projet 3](lien)** | [Une phrase : quel problème ça règle] | [technos] |-->
 
-I'm mostly interested in the visual side of development:
-- 🧊 3D modeling
-- 🎨 UI/UX design
-- 🎮 Video games
+## Réalisations
+
+-  **Mention spéciale d'originalité** - Intercollégial de création de jeux vidéo, Cégep de Valleyfield (édition 2026)
+-  **Participant** - Intercollégial de cybersécurité, Cégep Saint-Jean-sur-Richelieu
+-  Conception et mise en ligne d'une application de clavardage sur notre propre domaine (rmble.ca)
 
 ## Technologies
 
-**My favorite IDE** : 
+### Mes forces
+C# · Java · PHP · Laravel · Git · macOS · Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,php,laravel,git,apple,linux" />
+</p>
 
-[![Mon IDE préféré](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+### Aussi utilisé
 
-**Languages**
+**Langages** - C, Kotlin, JavaScript, TypeScript, Python, Rust, HTML, CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=c,kotlin,js,ts,py,rust,html,css" />
+</p>
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,java,kotlin,php,mysql)](https://skillicons.dev)
+**Frameworks & bibliothèques** - .NET, React, React Native, Node.js, Tailwind
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,tailwind" />
+</p>
 
-**Frameworks**
+**Jeux vidéo** - Godot, Unity
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,unity" />
+</p>
 
-[![Frameworks](https://skillicons.dev/icons?i=react,tailwind,laravel,dotnet)](https://skillicons.dev)
+**Bases de données & outils** - MariaDB, Docker, npm
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,docker,npm" />
+</p>
 
-**Tools**
+**Systèmes & environnements** - Développement sur Linux, macOS et Windows · JetBrains · Neovim
+<p>
+  <img src="https://skillicons.dev/icons?i=neovim,windows,idea" />
+</p>
 
-[![Tools](https://skillicons.dev/icons?i=unity,godot,blender,ae,pr,ps,ai,figma,git)](https://skillicons.dev)
+**Programmation agentique** - Création de skills et de hooks, configuration d'agents (`AGENTS.md`)
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
 
-## Contact
+## En ce moment
 
-[![Email](https://img.shields.io/badge/Email-vincent.hottin2007%40gmail.com-2079C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincent.hottin2007@gmail.com)
- 
-</details>
- 
-
-<!--
-**ChimiChanga75/ChimiChanga75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Je termine mon DEC en Techniques de l'informatique
+-  Stage en développement à venir chez [entreprise] — début [mois 2027]
+-  J'apprends : [technologie actuelle]
