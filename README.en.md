@@ -41,9 +41,9 @@ C# · Java · PHP · Laravel · Git · macOS · Linux
 
 ### Also used
 
-**Languages** - C, Kotlin, JavaScript, TypeScript, Python, Rust, HTML, CSS
+**Languages** - C, Kotlin, JavaScript, TypeScript, Python, HTML, CSS
 <p>
-  <img src="https://skillicons.dev/icons?i=c,kotlin,js,ts,py,rust,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,js,ts,py,html,css" />
 </p>
 
 **Frameworks & libraries** - .NET, React, React Native, Node.js, Tailwind
