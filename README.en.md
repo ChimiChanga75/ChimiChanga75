@@ -28,7 +28,7 @@ nicktremblay1005@gmail.com
 ## Achievements
 
 -  **Special mention for originality** - Intercollégial de création de jeux vidéo (intercollegiate game dev competition), Cégep de Valleyfield (2026 edition)
--  **Participant** - Intercollégial de cybersécurité (intercollegiate cybersecurity competition), Cégep Saint-Jean-sur-Richelieu
+-  **Participant** - Intercollégial de cybersécurité 2026 (intercollegiate cybersecurity competition), Cégep Saint-Jean-sur-Richelieu
 -  Designed and launched a chat application on our own domain (rmble.ca)
 
 ## Tech stack
