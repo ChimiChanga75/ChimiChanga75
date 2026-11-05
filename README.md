@@ -34,16 +34,16 @@ nicktremblay1005@gmail.com
 ## Technologies
 
 ### Mes forces
-C# · Java · PHP · Laravel · Git · macOS · Linux
+C# · Java · PHP · Laravel · Git · macOS · Linux 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,java,php,laravel,git,apple,linux" />
 </p>
 
 ### Aussi utilisé
 
-**Langages** - C, Kotlin, JavaScript, TypeScript, Python, Rust, HTML, CSS
+**Langages** - C, Kotlin, JavaScript, TypeScript, Python, HTML, CSS
 <p>
-  <img src="https://skillicons.dev/icons?i=c,kotlin,js,ts,py,rust,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,js,ts,py,html,css" />
 </p>
 
 **Frameworks & bibliothèques** - .NET, React, React Native, Node.js, Tailwind
