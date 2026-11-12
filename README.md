@@ -29,7 +29,7 @@ nicktremblay1005@gmail.com
 
 -  **Mention spéciale d'originalité** - Intercollégial de création de jeux vidéo, Cégep de Valleyfield (édition 2026)
 -  **Participant** - Intercollégial de cybersécurité 2026, Cégep Saint-Jean-sur-Richelieu
--  Conception et mise en ligne d'une application de clavardage sur notre propre domaine (rmble.ca)
+-  Conception et mise en ligne d'une application multiplateforme de clavardage sur notre propre domaine (rmble.ca)
 
 ## Technologies
 
